@@ -33,4 +33,4 @@ if __name__ == "__main__":
     # training
     trainer = TrainMain(cnf)
     trainer.train_model()
-    print('Finished')
+    print('It is Finished')
